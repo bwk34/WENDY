@@ -7,4 +7,3 @@ Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: More about what it does (maybe more than one line)
 License: What license is it under?
 LazyData: TRUE
-Built: R 3.2.3; ; 2016-02-18 04:35:06 UTC; windows
